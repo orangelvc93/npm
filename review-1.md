@@ -3,8 +3,11 @@
 ## ¿Qué es y para qué sirve?
 
 **Producto:** Software de monitoreo de impresión.
+
 **Función:** Recolectar datos de las impresoras para crear informes descriptivos.
+
 **A quién está dirigido:** Empresas que desean tener un control en la flota de impresión y economizar gastos.
+
 **Beneficio principal:** Mejorar la eficiencia y reducir costos.
 
 ## Funcionalidades y beneficios
